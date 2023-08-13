@@ -1,0 +1,128 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <RanZaniaLaeviss>Pez luna esbelto</RanZaniaLaeviss>
+      <RanZaniaLaeviss_stt>Pez luna esbelto</RanZaniaLaeviss_stt>
+      <RanZaniaLaeviss_lower>El Pez luna esbelto</RanZaniaLaeviss_lower>
+      <RanZaniaLaeviss_ltt>
+         <color r="255" g="248" b="178">
+            <b>Pez luna esbelto</b>
+         </color>
+         <br/>
+         Haga clic y seleccione el Pez luna esbelto, el primo menudo del pez luna.
+      </RanZaniaLaeviss_ltt>
+      <!--gift names-->
+      <RanZaniaLaeviss_Gift>Mochila de Pez luna esbelto</RanZaniaLaeviss_Gift>
+      <RanZaniaLaeviss_Gift_stt>Mochila de Pez luna esbelto</RanZaniaLaeviss_Gift_stt>
+      <RanZaniaLaeviss_Gift_lower>La mochila de Pez luna esbelto</RanZaniaLaeviss_Gift_lower>
+      <RanZaniaLaeviss_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de Pez luna esbelto</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve el Pez luna esbelto.
+      </RanZaniaLaeviss_Gift_ltt>
+</entityname>
+<zoopedia_ranzanialaeviss>
+ <entry>Pez luna esbelto</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/RanZaniaLaeviss/RanZaniaLaeviss_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Riesgo bajo
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Pelagico<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Oceanos de todo el mundo<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: peces de aletas radiadas <i>(Actinopterygii)</i><br/>Orden: <i>Tetraodontiformes</i><br/>Familia: <i>Molidae</i><br/>Genero: <i>Ranzania</i><br/>Especie: <i>laevis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del pez luna esbelto</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El pez luna esbelto es la unica especie del genero Ranzania.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El pez luna esbelto es el miembro mas menudo de la familia Molidae.
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Este pez se ha llegado a encontrar en casi todos los mares y oceanos del mundo.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Necesitas 3 estrellas para obtener el pez luna esbelto en su zoo. 
+   </color>
+   <p/>Es una especie cosmopolita que se encuentra en aguas oceanicas templadas y tropicales de todo el mundo. R. laevis es una especie pelagica y nada generalmente en solitario a profundidades de hasta 140 metros. Los adultos alcanzan una longitud aproximada de 1 metro. Aunque cuenta con aleta caudal al nacer, la pierde posteriormente y es sustituida por una estructura redondeada llamada clavus, que le da su forma caracteristica. R. laevis se alimenta principalmente de crustáceos planctonicos, y entre sus depredadores naturales se encuentra el atun de aleta amarilla, el pez vela del Atlantico y el marlin blanco. 
+   <p/> 
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido extraido de: <color r="255" g="231" b="135">Wikipedia.org.</color> Ranzania
+  </cell>
+ </text>
+</zoopedia_ranzanialaeviss>
+</ZT2Strings>

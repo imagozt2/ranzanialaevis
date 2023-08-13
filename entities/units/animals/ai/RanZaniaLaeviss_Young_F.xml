@@ -1,0 +1,36 @@
+<BFTypedBinder binderType="RanZaniaLaeviss_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Carcharhiniformes>
+                     <Carcharhinidae>
+                        <RanZaniaLaeviss>
+                           <RanZaniaLaeviss_Young>
+                              <RanZaniaLaeviss_Young_F/>
+                           </RanZaniaLaeviss_Young>
+                        </RanZaniaLaeviss>
+                     </Carcharhinidae>
+                  </Carcharhiniformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\RanZaniaLaeviss\RanZaniaLaeviss_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="RanZaniaLaeviss_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+   <binder/>
+</BFTypedBinder>

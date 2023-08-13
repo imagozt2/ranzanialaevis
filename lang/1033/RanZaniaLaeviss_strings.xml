@@ -1,0 +1,128 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <RanZaniaLaeviss>Slender mola</RanZaniaLaeviss>
+      <RanZaniaLaeviss_stt>Slender mola</RanZaniaLaeviss_stt>
+      <RanZaniaLaeviss_lower>the Slender mola</RanZaniaLaeviss_lower>
+      <RanZaniaLaeviss_ltt>
+         <color r="255" g="248" b="178">
+            <b>Slender mola</b>
+         </color>
+         <br/>
+         Click to select and then place a Slender mola.
+      </RanZaniaLaeviss_ltt>
+      <!--gift names-->
+      <RanZaniaLaeviss_Gift>Slender mola Backpack</RanZaniaLaeviss_Gift>
+      <RanZaniaLaeviss_Gift_stt>Slender mola Backpack</RanZaniaLaeviss_Gift_stt>
+      <RanZaniaLaeviss_Gift_lower>the Slender mola Backpack</RanZaniaLaeviss_Gift_lower>
+      <RanZaniaLaeviss_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Slender mola Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Slender mola will buy this gift.
+      </RanZaniaLaeviss_Gift_ltt>
+</entityname>
+<zoopedia_ranzanialaeviss>
+ <entry>Slender mola</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/RanZaniaLaeviss/RanZaniaLaeviss_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Pelagic<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Oceans Worldwide<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Ray-finned Fish <i>(Actinopterygii)</i><br/>Order: <i>Tetraodontiformes</i><br/>Family: <i>Molidae</i><br/>Genus: <i>Ranzania</i><br/>Species: <i>laevis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Slender mola Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The Polynesians called these sunfish "King of the Mackerels"</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Unlike other molas, the slender mola never reaches more than a couple of feet in length.
+</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">These are the most colorful and rarest of the ocean sunfishes. They have a smooth and thinner skin and a vertically oriented mouth.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Mola mola in challenge or campaign games, you must earn a 3 star zoo fame rating for your zoo. 
+   </color>
+   <p/> The Slender Sunfish is a distinctively shaped fish.  Like the other species of sunfishes, the species lacks a true tail, and instead has a clavus. The fish is silver coloured, often darker blue above, with blue, grey, brownish or green stripes and dots above and dark stripes from below the eye to the ventral surface. It occurs worldwide in most tropical and temperate marine waters. In Australia it is known from northen Queensland, south to Tasmania and west to the south-western coast of Western Australia. As its name suggests, the Slender Sunfish is the most elongate species of sunfish.  Surprisingly, it is quite a swift swimmer.
+   <p/> 
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">Wikipedia.org and other sites</color> Ranzania.
+  </cell>
+ </text>
+</zoopedia_ranzanialaeviss>
+</ZT2Strings>
